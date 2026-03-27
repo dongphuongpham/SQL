@@ -27,5 +27,3 @@ Performed SQL analysis on metaverse financial transactions to identify patterns,
 * Detected potential location anomalies from transactions occurring across regions within short timeframes
 * Highlighted wallets with unusually high transaction volumes
 * Identified transactions exceeding typical thresholds within regions
-
-* `Metaverse Financial Transactions.sql`
